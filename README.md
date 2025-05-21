@@ -9,7 +9,6 @@ I am familiar with all the essential data analysis tools, including:
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **SPSS**
 - **SQL**
-- **Some BI-tools** (Datalens)
 
 ### Projects
 
