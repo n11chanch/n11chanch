@@ -14,8 +14,7 @@ I am familiar with all the essential data analysis tools, including:
 
 In this repository, you will find the following projects with their pdf-source:
 
-- [🌱 Исследование генов опин-синтаз на основе анализа гомологии генов из открытых баз](https://github.com/n11chanch/agrobio_2023)
-- [💳 Исследование факторов, влияющих на заработную плату на основе датасета RLMS-HSE 2017](https://github.com/n11chanch/dano_hack)
+- [💳 A study of factors influencing wages based on the RLMS-HSE 2017 dataset](https://github.com/n11chanch/dano_hack)
 - [🔥 Исследование зависимости временных факторов и профессионального выгорания сотрудников на основе датасета hh.ru](https://github.com/n11chanch/dano_2023)
 - [🎰 Исследование поведения инвесторов в критические ситуации на основе датасета Т-Инвестиций](https://github.com/n11chanch/dano_2024)
 
