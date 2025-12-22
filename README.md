@@ -14,9 +14,9 @@ I am familiar with all the essential data analysis tools, including:
 
 In this repository, you will find the following projects with their pdf-source:
 
-- [💳 A study of factors influencing wages based on the RLMS-HSE 2017 dataset](https://github.com/n11chanch/dano_hack)
 - [🔥 A study of the relationship between temporal factors and employee burnout based on the hh.ru dataset](https://github.com/n11chanch/dano_2023)
-- [🎰 Исследование поведения инвесторов в критические ситуации на основе датасета Т-Инвестиций](https://github.com/n11chanch/dano_2024)
+- [🎰 A study of investor behavior in critical situations based on the Tinkoff-Investments dataset](https://github.com/n11chanch/dano_2024)
+- [💳 A study of factors influencing wages based on the RLMS-HSE 2017 dataset](https://github.com/n11chanch/dano_hack)
 
 
 ## 📝 Research Papers and Articles
