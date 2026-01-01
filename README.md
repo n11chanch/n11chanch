@@ -1,6 +1,6 @@
-# Hello! I'm Jasmine👋
+# Hello! I'm Yasmina👋
 
-I am a 17-year-old HSE freshman passionate about data analysis and psychology. In this repository, you will find my data analysis projects, as well as links to research papers and articles I've written in my free time.
+I am a 18-year-old HSE freshman passionate about data analysis and psychology. In this repository, you will find my data analysis projects, as well as links to research papers and articles I've written in my free time.
 
 ## 📊 Data Analysis
 
