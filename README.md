@@ -31,7 +31,7 @@ I also write articles and research papers on psychology. Here are abstracts of s
 ## 🔮 Something else
 
 - 🏸 I really like playing badminton
-- 🧘‍♀️ Ex-olympiad programming enjoyer (maybe there are no exes 🤫)
+- 🧘‍♀️ Ex-competitive programming enjoyer (maybe there are no exes 🤫)
 - 📔 I participate in olympiads in psychology, economics and english, and also go to conferences and scientific shifts on social sciences, so i'm a humanitarian
 
 ### You can find me anywhere, just type in @niichanch
