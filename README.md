@@ -1,37 +1,89 @@
-# Hello! I'm Yasmina👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="readme-assets/greeting-dark.svg">
+    <img src="readme-assets/greeting-light.svg" width="268" alt="hello! i'm iasmina">
+  </picture>
+  <img src="readme-assets/wave.gif" width="34" alt="waving hand">
+</p>
 
-I am a 18-year-old HSE freshman passionate about data analysis and psychology. In this repository, you will find my data analysis projects, as well as links to research papers and articles I've written in my free time.
+<p align="center">
+  <samp>data science &amp; LLM &amp; CV</samp>
+</p>
 
-## 📊 Data Analysis
+<p align="center">
+  <img src="readme-assets/seal.gif" width="160" alt="a very cute little seal">
+</p>
 
-I am familiar with all the essential data analysis tools, including:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SPSS**
-- **SQL**
+### 💼 at work
 
-### Projects
+data scientist @ alice AI
 
-In this repository, you will find the following projects with their pdf-source:
+i work with datasets, annotations, and the pipelines behind LLM evaluation.
 
-- [🔥 A study of the relationship between temporal factors and employee burnout based on the hh.ru dataset](https://github.com/n11chanch/dano_2023)
-- [🎰 A study of investor behavior in critical situations based on the Tinkoff-Investments dataset](https://github.com/n11chanch/dano_2024)
-- [💳 A study of factors influencing wages based on the RLMS-HSE 2017 dataset](https://github.com/n11chanch/dano_hack)
+- evaluation datasets and annotations.
+- model comparisons and result analysis.
+- YQL/SQL, pipelines, and dashboards.
 
+</td>
+<td width="50%" valign="top">
 
-## 📝 Research Papers and Articles
+### 🎓 education
 
-I also write articles and research papers on psychology. Here are abstracts of some of them:
+sophomore @ HSE university & central university
 
+[HSE university](https://www.hse.ru/en/ba/eda)<br>
+economics and data science<br>
+<sub>applied mathematics and computer science + economics</sub>
 
-- [🧠 Подходы для тестирования индивидуальных эмоциональных характеристик человека](https://neuro.hse.ru/emotional_condition/news/947779549.html): As part of the scientific work with the support of the HSE.
-- [💻 Методы дистанционного мониторинга психофизиологического состояния
-человека](http://sirius.imbp.ru/): As part of the scientific work with the support of the IMBP RAS.
+[central university](https://cu.ru/bachelor)<br>
+mathematics and computer science
 
-## 🔮 Something else
+</td>
+</tr>
+</table>
 
-- 🏸 I really like playing badminton
-- 🧘‍♀️ Ex-competitive programming enjoyer (maybe there are no exes 🤫)
-- 📔 I participate in olympiads in psychology, economics and english, and also go to conferences and scientific shifts on social sciences, so i'm a humanitarian
+📚 i also teach competitive maths and ML to school students and teachers. proud of my IOAI medalists &lt;3
 
-### You can find me anywhere, just type in @niichanch
+## 🛠 my toolkit
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="readme-assets/toolkit-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="readme-assets/toolkit-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="readme-assets/toolkit-dark.svg">
+  <img src="readme-assets/toolkit-light.svg" width="100%" alt="Python, SQL, YQL, C++; PostgreSQL, Greenplum, dbt, YTsaurus, Nirvana, DataLens; pandas, NumPy, Matplotlib, Seaborn, SPSS.">
+</picture>
+
+## 🦭 beyond the datasets
+
+🏸 always up for badminton.<br>
+🧠 curious about cognitive science and how the mind works.<br>
+🤫 former competitive programmer.
+
+<br>
+
+<details>
+<summary>📂 a few things i've worked on before</summary>
+
+### data analysis
+
+- [🔥 temporal factors and employee burnout — hh.ru](https://github.com/n11chanch/dano_2023)
+- [🎰 investor behaviour in critical situations — tinkoff investments](https://github.com/n11chanch/dano_2024)
+- [💳 factors influencing wages — RLMS-HSE](https://github.com/n11chanch/dano_hack)
+
+### research
+
+- [🧠 подходы для тестирования индивидуальных эмоциональных характеристик человека](https://neuro.hse.ru/emotional_condition/news/947779549.html) — research supported by HSE.
+- [💻 методы дистанционного мониторинга психофизиологического состояния человека](http://sirius.imbp.ru/) — research supported by IMBP RAS.
+
+</details>
+
+<br>
+
+<p align="center">
+  ✦ you can find me anywhere, just type in @niichanch ✦<br>
+  <a href="https://github.com/n11chanch">GitHub</a>
+</p>

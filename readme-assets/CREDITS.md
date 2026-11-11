@@ -1,0 +1,2 @@
+- wave.gif — martinheinz: https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif
+- seal.gif — https://tenor.com/view/seal-waving-bye-goodbye-cute-gif-16456147
