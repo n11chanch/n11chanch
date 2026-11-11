@@ -26,7 +26,7 @@ i work with datasets, annotations, and the pipelines behind LLM evaluation.
 
 - evaluation datasets and annotations.
 - model comparisons and result analysis.
-- YQL/SQL, pipelines, and dashboards.
+- SQL, pipelines, and dashboards.
 
 </td>
 <td width="50%" valign="top">
@@ -54,7 +54,7 @@ mathematics and computer science
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="readme-assets/toolkit-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="readme-assets/toolkit-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="readme-assets/toolkit-dark.svg">
-  <img src="readme-assets/toolkit-light.svg" width="100%" alt="Python, SQL, YQL, C++; PostgreSQL, Greenplum, dbt, YTsaurus, Nirvana, DataLens; pandas, NumPy, Matplotlib, Seaborn, SPSS.">
+  <img src="readme-assets/toolkit-light.svg" width="100%" alt="python, SQL, java, C++; postgresql, greenplum, dbt, spark, airflow, superset; pandas, numpy, matplotlib, seaborn, SPSS.">
 </picture>
 
 ## 🦭 beyond the datasets
@@ -84,6 +84,5 @@ mathematics and computer science
 <br>
 
 <p align="center">
-  ✦ you can find me anywhere, just type in @niichanch ✦<br>
-  <a href="https://github.com/n11chanch">GitHub</a>
+  ✦ you can find me anywhere, just type in @niichanch ✦
 </p>

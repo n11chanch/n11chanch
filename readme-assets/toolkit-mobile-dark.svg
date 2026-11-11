@@ -1,35 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="278" viewBox="0 0 460 278" role="img"><title>tools i use and study</title>
 <text x="3" y="17" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1" fill="#d5bedf">languages</text>
 <rect x="2" y="30" width="81" height="34" rx="8" fill="#493655" />
-<text x="42.5" y="53" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#e3cbf6">Python</text>
+<text x="42.5" y="53" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#e3cbf6">python</text>
 <rect x="91" y="30" width="56" height="34" rx="8" fill="#493655" />
 <text x="119.0" y="53" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#e3cbf6">SQL</text>
 <rect x="155" y="30" width="56" height="34" rx="8" fill="#493655" />
-<text x="183.0" y="53" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#e3cbf6">YQL</text>
+<text x="183.0" y="53" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#e3cbf6">java</text>
 <rect x="219" y="30" width="56" height="34" rx="8" fill="#493655" />
 <text x="247.0" y="53" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#e3cbf6">C++</text>
 <text x="3" y="98" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1" fill="#d5bedf">data &amp; systems</text>
 <rect x="2" y="111" width="115" height="34" rx="8" fill="#51333f" />
-<text x="59.5" y="134" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">PostgreSQL</text>
+<text x="59.5" y="134" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">postgresql</text>
 <rect x="125" y="111" width="106" height="34" rx="8" fill="#51333f" />
-<text x="178.0" y="134" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">Greenplum</text>
+<text x="178.0" y="134" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">greenplum</text>
 <rect x="239" y="111" width="56" height="34" rx="8" fill="#51333f" />
 <text x="267.0" y="134" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">dbt</text>
 <rect x="303" y="111" width="98" height="34" rx="8" fill="#51333f" />
-<text x="352.0" y="134" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">YTsaurus</text>
+<text x="352.0" y="134" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">spark</text>
 <rect x="2" y="153" width="90" height="34" rx="8" fill="#51333f" />
-<text x="47.0" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">Nirvana</text>
+<text x="47.0" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">airflow</text>
 <rect x="100" y="153" width="98" height="34" rx="8" fill="#51333f" />
-<text x="149.0" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">DataLens</text>
+<text x="149.0" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#f2c4d6">superset</text>
 <text x="3" y="221" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1" fill="#d5bedf">analysis</text>
 <rect x="2" y="234" width="81" height="34" rx="8" fill="#29463f" />
 <text x="42.5" y="257" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#c2e1d6">pandas</text>
 <rect x="91" y="234" width="72" height="34" rx="8" fill="#29463f" />
-<text x="127.0" y="257" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#c2e1d6">NumPy</text>
+<text x="127.0" y="257" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#c2e1d6">numpy</text>
 <rect x="171" y="234" width="115" height="34" rx="8" fill="#29463f" />
-<text x="228.5" y="257" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#c2e1d6">Matplotlib</text>
+<text x="228.5" y="257" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#c2e1d6">matplotlib</text>
 <rect x="294" y="234" width="90" height="34" rx="8" fill="#29463f" />
-<text x="339.0" y="257" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#c2e1d6">Seaborn</text>
+<text x="339.0" y="257" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#c2e1d6">seaborn</text>
 <rect x="392" y="234" width="64" height="34" rx="8" fill="#29463f" />
 <text x="424.0" y="257" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#c2e1d6">SPSS</text>
 </svg>
